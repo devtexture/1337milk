@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="https://uploads.skybox.su/ieatcement">
+    <img height="128" src="https://uploads.skybox.su/ieatcement">
 </div>
